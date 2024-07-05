@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BhekimpiloNdhlela
 - 👀 I’m interested in 
 - 🌱 I’m currently employed as a Intermediate Software Engineer
-- 📫 I hold a Bsc Mathemetical Science Degree *Stellenbosch University*
-- 📫 I am cureently enrolled for Bsc Honours Computer Science *University of Pretoria*
+- 📫 I hold a Bsc Mathemetical Science Degree *Stellenbosch University* and a Bsc Honours Computer Science *University of Pretoria*
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
