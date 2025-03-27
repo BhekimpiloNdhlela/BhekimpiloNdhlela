@@ -1,28 +1,37 @@
 ---
 
-# 👋 Hi, I’m Bhekimpilo Ndhlela (Bheki)
+# 👋 Hi, I’m Bhekimpilo Ndhlela (Bheki)  
 
-Welcome to my GitHub profile! I am a passionate **Cloud** and **Software Engineer** specializing in **AWS** technologies. 
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazon-aws)  
+![Terraform](https://img.shields.io/badge/Terraform-IaC-blueviolet?style=for-the-badge&logo=terraform)  
 
-## About Me
-- 🎓 I hold a **BSc in Mathematical Sciences** from *Stellenbosch University* and a **BSc Honours in Computer Science** from *University of Pretoria*.
-- 📜 Certified in **AWS Cloud Practitioner** and **AWS Developer Associate**.
-- 💻 Currently employed as an **Cloud and Software Engineer**.
-- 🌟 My expertise includes **cloud architecture**, **serverless computing**, **infrastructure automation**, and building scalable **AWS** solutions.
+Welcome to my GitHub profile! I am a passionate **Cloud** and **Software Engineer** specializing in **AWS** technologies.  
 
-## Interests
-- 🌐 **Cloud Computing**: Designing and deploying AWS solutions using Terraform, Python, and serverless frameworks.
-- 🤖 **Software Development**: Writing clean, maintainable code for robust applications.
-- 🔒 **DevOps**: Automating CI/CD pipelines and enhancing system reliability.
+## 🚀 About Me  
+- 🎓 **Education**:  
+  - **BSc in Mathematical Sciences** – *Stellenbosch University*  
+  - **BSc Honours in Computer Science** – *University of Pretoria*  
+- 📜 **Certifications**:  
+  - 🏅 **AWS Cloud Practitioner**  
+  - 🏅 **AWS Developer Associate**  
+- 💻 **Experience**:  
+  - **Cloud & Software Engineer** specializing in AWS, Serverless, and Infrastructure Automation.  
+- 🔧 **Expertise**:  
+  - Cloud Architecture, Serverless Computing, Terraform, and Scalable AWS Solutions.  
 
-## Let's Collaborate!
-I’m always open to collaborating on:
-- 🛠️ AWS-based projects.
-- 💡 Innovative cloud-native solutions.
-- 📈 Infrastructure optimization and automation.
+## 🔥 Interests  
+- 🌐 **Cloud Computing** – Architecting AWS solutions using **Terraform, Python, and Serverless** frameworks.  
+- 🤖 **Software Development** – Writing **clean, maintainable, and scalable** code.  
+- 🔒 **DevOps & Automation** – Building **CI/CD pipelines** and enhancing system reliability.  
 
-## Get in Touch
-- 📫 Reach out to me via **[LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/bhekimpilo-ndlela-9883727b/))**
-- 🌍 Visit my portfolio at `IN PROGRESS`.
+## 🤝 Let's Collaborate!  
+I’m open to working on:  
+- 🛠️ **AWS-based projects**  
+- 💡 **Innovative cloud-native solutions**  
+- 📈 **Infrastructure automation & optimization**  
 
----
+## 📬 Get in Touch  
+- 💼 **[LinkedIn](https://www.linkedin.com/in/bhekimpilo-ndlela-9883727b/)**  
+- 🌍 **Portfolio**: *IN PROGRESS*  
+
+---�
