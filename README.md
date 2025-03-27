@@ -34,4 +34,4 @@ I’m open to working on:
 - 💼 **[LinkedIn](https://www.linkedin.com/in/bhekimpilo-ndlela-9883727b/)**  
 - 🌍 **Portfolio**: *IN PROGRESS*  
 
----�
+---
