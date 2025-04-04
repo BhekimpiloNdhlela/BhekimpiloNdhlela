@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I am a passionate **Cloud** and **Software Enginee
   - **BSc Honours in Computer Science** – *University of Pretoria*  
 - 📜 **Certifications**:  
   - 🏅 **AWS Cloud Practitioner**  
-  - 🏅 **AWS Developer Associate**  
+  - 🏅 **AWS Developer Associate**
+  - 🏅 **Terraform Associate (003)**
 - 💻 **Experience**:  
   - **Cloud & Software Engineer** specializing in AWS, Serverless, and Infrastructure Automation.  
 - 🔧 **Expertise**:  
