@@ -1,9 +1,6 @@
 ---
 
-# 👋 Hi, I’m Bhekimpilo Ndhlela (Bheki)  
-
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazon-aws)  
-![Terraform](https://img.shields.io/badge/Terraform-IaC-blueviolet?style=for-the-badge&logo=terraform)  
+# 👋 Hi, I’m Bhekimpilo Ndhlela (Bheki)
 
 Welcome to my GitHub profile! I am a passionate **Cloud** and **Software Engineer** specializing in **AWS** technologies.  
 
